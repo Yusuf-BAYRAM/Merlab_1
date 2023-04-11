@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [merlab_pcb_v0.PcbDoc]
+   Generated File[Bill of Materials-merlab_pcb_v0.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 05:19:50 On 7.04.2023

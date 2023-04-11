@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=XTALC Pin=Y2-1
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Removed Pin From Net: NetName=GND Pin=Y2-3
+Removed Pin From Net: NetName=XTALD Pin=Y2-4
+Removed Member From Class: ClassName=MCU_STM32 Member=Y2
+Added Room: Name=MCU_Con
+Added Room: Name=MCU_STM32
+Added Room: Name=power_module

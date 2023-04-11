@@ -1,0 +1,4 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(238, 14, 34)
+Added Room: Name=MCU_Con
+Added Room: Name=MCU_STM32
+Added Room: Name=power_module
